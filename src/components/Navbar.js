@@ -11,11 +11,18 @@ const Navbar = () => {
   const handleClick = () => setClick(!click);
 
   const [color, setColor] = useState(false);
-  const
+  const changeColor = () => {
+    if (window.scrollY >= 100) {
+      setColor(true);
+    } else {
+      setColor(false);
+    }
+  };
 
+  window.addEventListener("scroll", changeColor);
 
   return (
-    <div className="header">
+    <div className={color ? "header header-bg" : "header"}>
       <Link to="/">
         <h1>Portfolio</h1>
       </Link>
@@ -45,4 +52,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
