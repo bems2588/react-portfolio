@@ -25,24 +25,23 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="right"></div>
-        <h4>About me</h4>
-        <p>Small paragraph here with some information
-          relevant to me.
-        </p>
-        <div className="social">
-          <FaFacebook
-            size={30}
-            style={{ color: "#ddd", marginRight: "2rem" }} />
-          <FaLinkedin
-            size={30}
-            style={{ color: "#ddd", marginRight: "2rem" }} />
-          <FaGithub
-            size={30}
-            style={{ color: "#ddd", marginRight: "2rem" }} />
+        <div className="right">
+          <h4>About me</h4>
+          <p>Small paragraph here with some information
+            relevant to me.
+          </p>
+          <div className="social">
+            <FaFacebook
+              size={30}
+              style={{ color: "#ddd", marginRight: "2rem" }} />
+            <FaLinkedin
+              size={30}
+              style={{ color: "#ddd", marginRight: "2rem" }} />
+            <FaGithub
+              size={30}
+              style={{ color: "#ddd", marginRight: "2rem" }} />
+          </div>
         </div>
-
-
       </div>
     </div>
   )
