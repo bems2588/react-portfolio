@@ -1,3 +1,32 @@
+# Professional Portfolio
+
+## Purpose 
+
+This is a website that showcases the most relevant work I have done as a junior developer :)
+
+## Built With
+
+* React
+* HTML
+* CSS
+* JS
+
+## Website
+
+## Contribution
+
+* Bruno Marcenaro
+
+## Personal Info 
+
+* Visit my Github page at https://github.com/bems2588
+
+* Contact me at bems2588@gmail.com
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
