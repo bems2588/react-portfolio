@@ -1,7 +1,7 @@
 import "./AboutContentStyles.css";
 import React from 'react'
 import { Link } from "react-router-dom";
-import myPic from "../assets/mypic.jpg";
+import myPic from "../assets/mypic.png";
 
 const AboutContent = () => {
   return (
