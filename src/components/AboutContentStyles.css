@@ -22,20 +22,21 @@
 
 .about .right {
   max-width: 700px;
-}
-
-.right .img-container {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  position: relative;
   align-items: center;
+  /* display: grid; */
+  /* grid-template-columns: repeat(12, 1fr); */
+  position: relative;
   text-align: center;
-  border: 10px solid red;
+  
+
 }
 
-.right.img {
-  max-width: 5  0%;
- 
+
+.right .img {
+max-width: 90%;
+border: 1px solid #333;
+position: center;
+border-radius: 20%;
 }
 
 
