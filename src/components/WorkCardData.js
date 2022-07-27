@@ -9,38 +9,44 @@ const ProjectCardData = [
   {
     imgsrc: project1,
     title: "Work Day Scheduler",
-    text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    text: "Simple calendar application that allows the user to save events for ech hour of the day. ",
+    view: "https://github.com/bems2588/calendar-app",
+    app: "https://bems2588.github.io/calendar-app"
   },
   {
     imgsrc: project2,
     title: "Work Day Scheduler",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    view: "https://github.com/bems2588/calendar-app",
+    app: ""
   },
   {
     imgsrc: project3,
-    title: "Wheather App",
+    title: "Weather App",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    view: "https://github.com/bems2588/calendar-app",
+    app: ""
   },
   {
     imgsrc: project4,
     title: "Budget Tracker",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    view: "https://github.com/bems2588/budget-tracker",
+    app: ""
   },
   {
     imgsrc: project5,
     title: "Password Generator",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    view: "https://github.com/bems2588/calendar-app",
+    app: ""
   },
   {
     imgsrc: project6,
     title: "Coding Quiz",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app"
+    view: "https://github.com/bems2588/calendar-app",
+    app: ""
   }
 ]
 

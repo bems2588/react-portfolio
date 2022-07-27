@@ -2,6 +2,8 @@ import "./WorkCardStyles.css";
 import WorkCard from "./WorkCard";
 import WordCardData from "./WorkCardData";
 
+
+
 import React from 'react'
 
 
@@ -18,6 +20,7 @@ const Work = () => {
               title={val.title}
               text={val.text}
               view={val.view}
+              app={val.app}
             />
           )
         })}

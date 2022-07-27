@@ -20,13 +20,14 @@ ul {
   list-style-type: none;
 }
 
-.btn {
+.btn  {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
   background: rgb(248, 217, 15);
   color:#222;
   border: 1px solid #ddd;
+  border-radius:10%;
   font-weight: 600;
   cursor: pointer;
 }
