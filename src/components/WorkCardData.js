@@ -9,7 +9,7 @@ const ProjectCardData = [
   {
     imgsrc: project1,
     title: "Work Day Scheduler",
-    text: "Simple calendar application that allows the user to save events for ech hour of the day. ",
+    text: "Simple calendar application that allows the user to save events for each hour of the day. ",
     view: "https://github.com/bems2588/calendar-app",
     app: "https://bems2588.github.io/calendar-app"
   },
@@ -23,7 +23,7 @@ const ProjectCardData = [
   {
     imgsrc: project3,
     title: "Weather App",
-    text: "Text goes here... maybe",
+    text: "This weather application was developed to easily access the weather report on your device. OpenWeathers API was used in this project.",
     view: "https://github.com/bems2588/weather-app",
     app: "https://bems2588.github.io/weather-app"
   },
