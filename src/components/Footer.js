@@ -27,8 +27,7 @@ const Footer = () => {
 
         <div className="right">
           <h4>About me</h4>
-          <p>Small paragraph here with some information
-            relevant to me.
+          <p>I'm an enthusiastic - self-driven junior Front-End Developer based in Raleigh, North Carolina.
           </p>
           <div className="social">
             <FaFacebook
