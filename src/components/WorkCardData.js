@@ -15,38 +15,38 @@ const ProjectCardData = [
   },
   {
     imgsrc: project2,
-    title: "Work Day Scheduler",
-    text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app",
-    app: ""
+    title: "E-commerce Backend",
+    text: "This is a backend RESTful API for an e-commerce website. This application was developed using mySQL2 and Sequelize(ORM).",
+    view: "https://github.com/bems2588/e-comm-back-end",
+    app: "https://drive.google.com/file/d/1GR8dvv8d4Jc-xBeU2vFXNBxUNhwnefRX/view"
   },
   {
     imgsrc: project3,
     title: "Weather App",
     text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app",
-    app: ""
+    view: "https://github.com/bems2588/weather-app",
+    app: "https://bems2588.github.io/weather-app"
   },
   {
     imgsrc: project4,
     title: "Budget Tracker",
-    text: "Text goes here... maybe",
+    text: "This app lets users keep track of their expenses even if the user is offline",
     view: "https://github.com/bems2588/budget-tracker",
-    app: ""
+    app: "https://bems2588.github.io/budget-tracker"
   },
   {
     imgsrc: project5,
     title: "Password Generator",
-    text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app",
-    app: ""
+    text: "This website generates random passwords that include lower and upper case characters, as well as numbers and symbols.",
+    view: "https://github.com/bems2588/password-generator",
+    app: "https://bems2588.github.io/password-generator"
   },
   {
     imgsrc: project6,
     title: "Coding Quiz",
-    text: "Text goes here... maybe",
-    view: "https://github.com/bems2588/calendar-app",
-    app: ""
+    text: "This application will test your knowledge about HTML, CSS and JavaScript.",
+    view: "https://github.com/bems2588/code-quiz",
+    app: "https://bems2588.github.io/code-quiz"
   }
 ]
 
