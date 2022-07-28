@@ -39,7 +39,7 @@ const Navbar = () => {
           <Link to="/contact">Contact</Link>
         </li>
         <li>
-          <Link to="/">Resume</Link>
+          <a href="https://drive.google.com/file/d/1gnA-HuoyzvVQAU0iw_iSpp02wVEHi28u/view?usp=sharing">Resume</a>
         </li>
       </ul>
       <div className="hamburger" onClick={handleClick}>
